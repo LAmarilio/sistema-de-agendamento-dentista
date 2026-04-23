@@ -1,0 +1,13 @@
+package dev.leonardo.sistema_dentista;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SistemaDentistaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
